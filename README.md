@@ -1,23 +1,23 @@
 # kottans-frontend
 ## :octocat: My progress 
 ### General
-- [x][Git Basics](https://github.com/kottans/frontend/blob/master/tasks/git-intro.md)<br>
-- [x][Linux CLI and Networking](https://github.com/kottans/frontend/blob/master/tasks/linux-cli-http.md)<br>
-- [ ][VCS (hello gitty), GitHub and Collaboration](https://github.com/kottans/frontend/blob/master/tasks/git-collaboration.md)
+- [X] [Git Basics](https://github.com/kottans/frontend/blob/master/tasks/git-intro.md)<br>
+- [x] [Linux CLI and Networking](https://github.com/kottans/frontend/blob/master/tasks/linux-cli-http.md)<br>
+- [ ] [VCS (hello gitty), GitHub and Collaboration](https://github.com/kottans/frontend/blob/master/tasks/git-collaboration.md)
 ### Front-End Basics
-- [ ][Intro to HTML & CSS](https://github.com/kottans/frontend/blob/master/tasks/html-css-intro.md)<br>
-- [ ][Responsive Web Design](https://github.com/kottans/frontend/blob/master/tasks/html-css-responsive.md)<br>
-- [ ][HTML & CSS Practice](https://github.com/kottans/frontend/blob/master/tasks/html-css-popup.md)<br>
-- [ ][JavaScript Basics](https://github.com/kottans/frontend/blob/master/tasks/js-basics.md)<br>
-- [ ][Document Object Model](https://github.com/kottans/frontend/blob/master/tasks/js-dom.md) – practice
+- [ ] [Intro to HTML & CSS](https://github.com/kottans/frontend/blob/master/tasks/html-css-intro.md)<br>
+- [ ] [Responsive Web Design](https://github.com/kottans/frontend/blob/master/tasks/html-css-responsive.md)<br>
+- [ ] [HTML & CSS Practice](https://github.com/kottans/frontend/blob/master/tasks/html-css-popup.md)<br>
+- [ ] [JavaScript Basics](https://github.com/kottans/frontend/blob/master/tasks/js-basics.md)<br>
+- [ ] [Document Object Model](https://github.com/kottans/frontend/blob/master/tasks/js-dom.md) – practice
 ### Advanced Topics
-- [ ][Building a Tiny JS World (pre-OOP)](https://github.com/kottans/frontend/blob/master/tasks/js-pre-oop.md) – practice<br>
-- [ ][Object oriented JS](https://github.com/kottans/frontend/blob/master/tasks/js-oop.md) – practice<br>
-- [ ][OOP exercise](https://github.com/kottans/frontend/blob/master/tasks/js-post-oop.md) – practice<br>
-- [ ][Offline Web Applications](https://github.com/kottans/frontend/blob/master/tasks/app-design-offline.md)<br>
-- [ ][Memory pair game](https://github.com/kottans/frontend/blob/master/tasks/memory-pair-game.md) – real project!<br>
-- [ ][Website Performance Optimization](https://github.com/kottans/frontend/blob/master/tasks/app-design-performance.md)<br>
-- [ ][Friends App](https://github.com/kottans/frontend/blob/master/tasks/friends-app.md) – real project!<br>
+- [ ] [Building a Tiny JS World (pre-OOP)](https://github.com/kottans/frontend/blob/master/tasks/js-pre-oop.md) – practice<br>
+- [ ] [Object oriented JS](https://github.com/kottans/frontend/blob/master/tasks/js-oop.md) – practice<br>
+- [ ] [OOP exercise](https://github.com/kottans/frontend/blob/master/tasks/js-post-oop.md) – practice<br>
+- [ ] [Offline Web Applications](https://github.com/kottans/frontend/blob/master/tasks/app-design-offline.md)<br>
+- [ ] [Memory pair game](https://github.com/kottans/frontend/blob/master/tasks/memory-pair-game.md) – real project!<br>
+- [ ] [Website Performance Optimization](https://github.com/kottans/frontend/blob/master/tasks/app-design-performance.md)<br>
+- [ ] [Friends App](https://github.com/kottans/frontend/blob/master/tasks/friends-app.md) – real project!<br>
 
 ## Git Basics
 ### • Version Control with Git
