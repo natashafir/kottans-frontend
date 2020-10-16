@@ -1,9 +1,9 @@
 # kottans-frontend
 ## :octocat: My progress 
 ### General
-- [X] [Git Basics](https://github.com/kottans/frontend/blob/master/tasks/git-intro.md)<br>
+- [x] [Git Basics](https://github.com/kottans/frontend/blob/master/tasks/git-intro.md)<br>
 - [x] [Linux CLI and Networking](https://github.com/kottans/frontend/blob/master/tasks/linux-cli-http.md)<br>
-- [ ] [VCS (hello gitty), GitHub and Collaboration](https://github.com/kottans/frontend/blob/master/tasks/git-collaboration.md)
+- [x] [VCS (hello gitty), GitHub and Collaboration](https://github.com/kottans/frontend/blob/master/tasks/git-collaboration.md)
 ### Front-End Basics
 - [ ] [Intro to HTML & CSS](https://github.com/kottans/frontend/blob/master/tasks/html-css-intro.md)<br>
 - [ ] [Responsive Web Design](https://github.com/kottans/frontend/blob/master/tasks/html-css-responsive.md)<br>
@@ -41,5 +41,7 @@
 
 ## • Git Collaboration
 ![module 1](task_git_collaboration/1.png)
+There was nothing new for me in this section, i just went through it again.
 
 ![front-end](img/feb.jpg)
+
