@@ -41,3 +41,5 @@
 
 ## • Git Collaboration
 ![module 1](task_git_collaboration/1.png)
+
+![front-end](img/feb.jpg)
