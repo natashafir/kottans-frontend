@@ -36,3 +36,6 @@
 ![module 4](task_linux_cli/4.png)
 
 #### I already passed these modules in the past, so nothing was new for me, but I enjoyed do that again.
+
+## Git Collaboration
+![module 1](task_git_collaboration/1.png)
