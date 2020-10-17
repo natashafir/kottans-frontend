@@ -21,7 +21,7 @@
 
 ![general](img/general.jpg)
 
-## • Git Basics
+## Git Basics
 ### Version Control with Git
 ![module 1](img/01.png)
 ### learngitbranching.js.org
@@ -30,7 +30,7 @@
 
 #### I already passed these tasks, so it was not difficult for me, but i like to refresh my knowledge.
 
-## • Linux CLI, and HTTP
+## Linux CLI, and HTTP
 ### Linux Survival (4 modules)
 ![module 1](task_linux_cli/1.png)
 ![module 2](task_linux_cli/2.png)
@@ -39,9 +39,15 @@
 
 #### I already passed these modules in the past, so nothing was new for me, but I enjoyed do that again.
 
-## • Git Collaboration
+## Git Collaboration
 ![module 1](task_git_collaboration/1.png)
 There was nothing new for me in this section, i just went through it again.
 
 ![front-end](img/feb.jpg)
+
+## Intro to HTML and CSS
+
+![module 1](task_html_css_intro/1.png)
+![module 2](task_html_css_intro/html.jpg)
+![module 3](task_html_css_intro/css.jpg)
 
