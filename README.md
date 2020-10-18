@@ -53,12 +53,10 @@ There was nothing new for me in this section, i just went through it again.
 I didn't use CSS Grid before and all information about Gird was new for me, but I'm sure that will use that in future.
 
 ## Responsive Web Design
+
 <details>
-
 <summary>Responsive Web Design Fundamentals</summary>
-
- <p> ![module 1](task_responsive_web_design/responsive.jpg) </p>
- 
+<img>task_responsive_web_design/responsive.jpg)</img>
 </details>
   
 
