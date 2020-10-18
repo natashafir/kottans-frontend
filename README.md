@@ -5,7 +5,7 @@
 - [x] [Linux CLI and Networking](https://github.com/kottans/frontend/blob/master/tasks/linux-cli-http.md)<br>
 - [x] [VCS (hello gitty), GitHub and Collaboration](https://github.com/kottans/frontend/blob/master/tasks/git-collaboration.md)
 ### Front-End Basics
-- [ ] [Intro to HTML & CSS](https://github.com/kottans/frontend/blob/master/tasks/html-css-intro.md)<br>
+- [x] [Intro to HTML & CSS](https://github.com/kottans/frontend/blob/master/tasks/html-css-intro.md)<br>
 - [ ] [Responsive Web Design](https://github.com/kottans/frontend/blob/master/tasks/html-css-responsive.md)<br>
 - [ ] [HTML & CSS Practice](https://github.com/kottans/frontend/blob/master/tasks/html-css-popup.md)<br>
 - [ ] [JavaScript Basics](https://github.com/kottans/frontend/blob/master/tasks/js-basics.md)<br>
@@ -50,4 +50,4 @@ There was nothing new for me in this section, i just went through it again.
 ![module 1](task_html_css_intro/1.png)
 ![module 2](task_html_css_intro/html.jpg)
 ![module 3](task_html_css_intro/css.jpg)
-
+I didn't use CSS Grid before and all information about Gird was new for me, but I'm sure that will use that in future.
