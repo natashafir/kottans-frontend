@@ -57,8 +57,8 @@ I didn't use CSS Grid before and all information about Gird was new for me, but 
 
 <summary>Responsive Web Design Fundamentals</summary>
 
-![module 1](task_responsive_web_design/responsive.jpg)
-
+ <p> ![module 1](task_responsive_web_design/responsive.jpg) </p>
+ 
 </details>
   
 
