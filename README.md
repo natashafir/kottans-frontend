@@ -63,4 +63,7 @@ I didn't use CSS Grid before and all information about Gird was new for me, but 
 <summary>Flexbox Froggy</summary>
 <img src="task_responsive_web_design/froggy.png">
 </details>
-  
+
+Responsive patterns was new for me.
+"Column drop", "mostly fluid", "layout shifter" and "off canvas".
+
