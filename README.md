@@ -55,13 +55,12 @@ I didn't use CSS Grid before and all information about Gird was new for me, but 
 ## Responsive Web Design
 
 <details>
-
 <summary>Responsive Web Design Fundamentals</summary>
-
 <img src="task_responsive_web_design/responsive.jpg">
+</details>
 
+<details>
+<summary>Flexbox Froggy</summary>
+<img src="task_responsive_web_design/froggy.png">
 </details>
   
-
-![module 1](task_responsive_web_design/responsive.jpg)
-![module 1](task_responsive_web_design/froggy.png)
