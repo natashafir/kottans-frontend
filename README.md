@@ -56,7 +56,7 @@ I didn't use CSS Grid before and all information about Gird was new for me, but 
 
 <details>
 <summary>Responsive Web Design Fundamentals</summary>
-<img>task_responsive_web_design/responsive.jpg)</img>
+<img>task_responsive_web_design/responsive.jpg</img>
 </details>
   
 
