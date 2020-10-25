@@ -67,3 +67,9 @@ I didn't use CSS Grid before and all information about Gird was new for me, but 
 Responsive patterns was new for me.
 "Column drop", "mostly fluid", "layout shifter" and "off canvas".
 
+## JS Basics
+
+<details>
+<summary>Intro to JS</summary>
+<img src="task_js_basics/js.jpg">
+</details>
