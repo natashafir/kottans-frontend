@@ -12,7 +12,7 @@
 - [ ] [Document Object Model](https://github.com/kottans/frontend/blob/master/tasks/js-dom.md) – practice
 ### Advanced Topics
 - [ ] [Building a Tiny JS World (pre-OOP)](https://github.com/kottans/frontend/blob/master/tasks/js-pre-oop.md) – practice<br>
-- [ ] [Object oriented JS](https://github.com/kottans/frontend/blob/master/tasks/js-oop.md) – practice<br>
+- [x] [Object oriented JS](https://github.com/kottans/frontend/blob/master/tasks/js-oop.md) – practice<br>
 - [ ] [OOP exercise](https://github.com/kottans/frontend/blob/master/tasks/js-post-oop.md) – practice<br>
 - [ ] [Offline Web Applications](https://github.com/kottans/frontend/blob/master/tasks/app-design-offline.md)<br>
 - [ ] [Memory pair game](https://github.com/kottans/frontend/blob/master/tasks/memory-pair-game.md) – real project!<br>
@@ -25,17 +25,41 @@
 ### Version Control with Git
 ![module 1](img/01.png)
 ### learngitbranching.js.org
-![module 2](img/02.png)
-![module 3](img/03.png)
+
+<details>
+<summary>Main</summary>
+<img src="img/02.png">
+</details>
+
+<details>
+<summary>Remote</summary>
+<img src="img/03.png">
+</details>
 
 #### I already passed these tasks, so it was not difficult for me, but i like to refresh my knowledge.
 
 ## Linux CLI, and HTTP
 ### Linux Survival (4 modules)
-![module 1](task_linux_cli/1.png)
-![module 2](task_linux_cli/2.png)
-![module 3](task_linux_cli/3.png)
-![module 4](task_linux_cli/4.png)
+
+<details>
+<summary>Quiz Number 1</summary>
+<img src="task_linux_cli/1.png">
+</details>
+
+<details>
+<summary>Quiz Number 2</summary>
+<img src="task_linux_cli/2.png">
+</details>
+
+<details>
+<summary>Quiz Number 3</summary>
+<img src="task_linux_cli/3.png">
+</details>
+
+<details>
+<summary>Quiz Number 4</summary>
+<img src="task_linux_cli/4.png">
+</details>
 
 #### I already passed these modules in the past, so nothing was new for me, but I enjoyed do that again.
 
