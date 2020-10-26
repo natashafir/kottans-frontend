@@ -7,12 +7,12 @@
 ### Front-End Basics
 - [x] [Intro to HTML & CSS](https://github.com/kottans/frontend/blob/master/tasks/html-css-intro.md)<br>
 - [x] [Responsive Web Design](https://github.com/kottans/frontend/blob/master/tasks/html-css-responsive.md)<br>
-- [ ] [HTML & CSS Practice](https://github.com/kottans/frontend/blob/master/tasks/html-css-popup.md)<br>
+- [x] [HTML & CSS Practice](https://github.com/kottans/frontend/blob/master/tasks/html-css-popup.md)<br>
 - [ ] [JavaScript Basics](https://github.com/kottans/frontend/blob/master/tasks/js-basics.md)<br>
 - [ ] [Document Object Model](https://github.com/kottans/frontend/blob/master/tasks/js-dom.md) – practice
 ### Advanced Topics
 - [ ] [Building a Tiny JS World (pre-OOP)](https://github.com/kottans/frontend/blob/master/tasks/js-pre-oop.md) – practice<br>
-- [x] [Object oriented JS](https://github.com/kottans/frontend/blob/master/tasks/js-oop.md) – practice<br>
+- [ ] [Object oriented JS](https://github.com/kottans/frontend/blob/master/tasks/js-oop.md) – practice<br>
 - [ ] [OOP exercise](https://github.com/kottans/frontend/blob/master/tasks/js-post-oop.md) – practice<br>
 - [ ] [Offline Web Applications](https://github.com/kottans/frontend/blob/master/tasks/app-design-offline.md)<br>
 - [ ] [Memory pair game](https://github.com/kottans/frontend/blob/master/tasks/memory-pair-game.md) – real project!<br>
@@ -22,8 +22,13 @@
 ![general](img/general.jpg)
 
 ## Git Basics
-### Version Control with Git
-![module 1](img/01.png)
+### Version Control with Git (Udacity)
+
+<details>
+<summary>Version Control with Git</summary>
+<img src="img/01.png">
+</details>
+
 ### learngitbranching.js.org
 
 <details>
@@ -64,7 +69,12 @@
 #### I already passed these modules in the past, so nothing was new for me, but I enjoyed do that again.
 
 ## Git Collaboration
-![module 1](task_git_collaboration/1.png)
+
+<details>
+<summary>GitHub & Collaboration</summary>
+<img src="task_git_collaboration/1.png">
+</details>
+
 There was nothing new for me in this section, i just went through it again.
 
 ![front-end](img/feb.jpg)
@@ -90,6 +100,10 @@ I didn't use CSS Grid before and all information about Gird was new for me, but 
 
 Responsive patterns was new for me.
 "Column drop", "mostly fluid", "layout shifter" and "off canvas".
+
+## HTML & CSS practice
+
+[Hooli-style Popup](https://natashafir.github.io/hooli-style-popup/)
 
 ## JS Basics
 
