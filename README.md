@@ -103,7 +103,7 @@ Responsive patterns was new for me.
 
 ## HTML & CSS practice
 
-[Hooli-style Popup](https://natashafir.github.io/hooli-style-popup/)
+[Popup](https://natashafir.github.io/hooli-style-popup/)
 
 ## JS Basics
 
@@ -130,4 +130,15 @@ Responsive patterns was new for me.
   The callback function accepts four arguments. The first argument is known as the accumulator, which gets assigned the return value of the callback function from the previous iteration, the second is the current element being processed, the third is the index of that element and the fourth is the array upon which `reduce` is called.
   In addition to the callback function, `reduce` has an additional parameter which takes an initial value for the accumulator. If this second parameter is not used, then the first iteration is skipped and the second iteration gets passed the first element of the array as the accumulator.
  
+## DOM
+
+<details>
+<summary>JavaScript and the DOM</summary>
+<img src="task_js_dom/dom.png">
+</details>
+
+<details>
+<summary>freecodecamp Algorithm Scripting Challenges</summary>
+<img src="task_js_dom/tasks.png">
+</details>
 
