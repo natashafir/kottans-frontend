@@ -9,7 +9,7 @@
 - [x] [Responsive Web Design](https://github.com/kottans/frontend/blob/master/tasks/html-css-responsive.md)<br>
 - [x] [HTML & CSS Practice](https://github.com/kottans/frontend/blob/master/tasks/html-css-popup.md)<br>
 - [x] [JavaScript Basics](https://github.com/kottans/frontend/blob/master/tasks/js-basics.md)<br>
-- [ ] [Document Object Model](https://github.com/kottans/frontend/blob/master/tasks/js-dom.md) – practice
+- [x] [Document Object Model](https://github.com/kottans/frontend/blob/master/tasks/js-dom.md) – practice
 ### Advanced Topics
 - [ ] [Building a Tiny JS World (pre-OOP)](https://github.com/kottans/frontend/blob/master/tasks/js-pre-oop.md) – practice<br>
 - [ ] [Object oriented JS](https://github.com/kottans/frontend/blob/master/tasks/js-oop.md) – practice<br>
@@ -141,4 +141,6 @@ Responsive patterns was new for me.
 <summary>freecodecamp Algorithm Scripting Challenges</summary>
 <img src="task_js_dom/tasks.png">
 </details>
+
+Click [here](https://natashafir.github.io/interactive-side-menu) to see some wonderful Mexican places.
 
