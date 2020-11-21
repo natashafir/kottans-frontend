@@ -81,9 +81,21 @@ There was nothing new for me in this section, i just went through it again.
 
 ## Intro to HTML and CSS
 
-![module 1](task_html_css_intro/1.png)
-![module 2](task_html_css_intro/html.jpg)
-![module 3](task_html_css_intro/css.jpg)
+<details>
+<summary>Intro to HTML & CSS</summary>
+<img src="task_html_css_intro/1.png">
+</details>
+
+<details>
+<summary>Learn HTML</summary>
+<img src="task_html_css_intro/html.jpg">
+</details>
+
+<details>
+<summary>Learn CSS</summary>
+<img src="task_html_css_intro/css.jpg">
+</details>
+
 I didn't use CSS Grid before and all information about Gird was new for me, but I'm sure that will use that in future.
 
 ## Responsive Web Design
@@ -143,4 +155,13 @@ Responsive patterns was new for me.
 </details>
 
 Click [here](https://natashafir.github.io/interactive-side-menu) to see some wonderful Mexican places.
+
+![advanced](img/advanced.jpg)
+
+## A Tiny JS World
+
+Click [here](https://natashafir.github.io/a-tiny-JS-world/) to see a Tiny JS World.
+
+## Object Oriented JS
+
 
