@@ -164,4 +164,9 @@ Click [here](https://natashafir.github.io/a-tiny-JS-world/) to see a Tiny JS Wor
 
 ## Object Oriented JS
 
+[codewars](https://www.codewars.com/users/natashafir)
 
+<details>
+<summary>Rank:6 kyu</summary>
+<img src="task_js_oop/codewars.png">
+</details>
