@@ -11,7 +11,7 @@
 - [x] [JavaScript Basics](https://github.com/kottans/frontend/blob/master/tasks/js-basics.md)<br>
 - [x] [Document Object Model](https://github.com/kottans/frontend/blob/master/tasks/js-dom.md) – practice
 ### Advanced Topics
-- [ ] [Building a Tiny JS World (pre-OOP)](https://github.com/kottans/frontend/blob/master/tasks/js-pre-oop.md) – practice<br>
+- [x] [Building a Tiny JS World (pre-OOP)](https://github.com/kottans/frontend/blob/master/tasks/js-pre-oop.md) – practice<br>
 - [ ] [Object oriented JS](https://github.com/kottans/frontend/blob/master/tasks/js-oop.md) – practice<br>
 - [ ] [OOP exercise](https://github.com/kottans/frontend/blob/master/tasks/js-post-oop.md) – practice<br>
 - [ ] [Offline Web Applications](https://github.com/kottans/frontend/blob/master/tasks/app-design-offline.md)<br>
@@ -167,6 +167,6 @@ Click [here](https://natashafir.github.io/a-tiny-JS-world/) to see a Tiny JS Wor
 [codewars](https://www.codewars.com/users/natashafir)
 
 <details>
-<summary>Rank:6 kyu</summary>
+<summary>Rank: 6 kyu</summary>
 <img src="task_js_oop/codewars.png">
 </details>
