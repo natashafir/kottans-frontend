@@ -170,3 +170,8 @@ Click [here](https://natashafir.github.io/a-tiny-JS-world/) to see a Tiny JS Wor
 <summary>Rank: 6 kyu</summary>
 <img src="task_js_oop/codewars.png">
 </details>
+
+<details>
+<summary>Object Oriented JS</summary>
+<img src="task_js_oop/udacity.png">
+</details>
