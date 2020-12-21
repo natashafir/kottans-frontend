@@ -179,4 +179,5 @@ Click [here](https://natashafir.github.io/a-tiny-JS-world/) to see a Tiny JS Wor
 [Frogger-game Code](https://github.com/natashafir/frogger-game/blob/main/js/app.js)
 [Frogger-game Demo](https://natashafir.github.io/frogger-game/)
 
-##OOP exercise
+## OOP exercise
+Click [here](https://natashafir.github.io/a-tiny-JS-world/) to see a Tiny JS World.
