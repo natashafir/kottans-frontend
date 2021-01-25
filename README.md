@@ -181,3 +181,7 @@ Click [here](https://natashafir.github.io/a-tiny-JS-world/) to see a Tiny JS Wor
 
 ## OOP exercise
 Click [here](https://natashafir.github.io/a-tiny-JS-world/) to see a Tiny JS World.
+
+## Memory pair game
+[Demo](https://natashafir.github.io/memory-game/)
+[Code](https://github.com/natashafir/memory-game)
