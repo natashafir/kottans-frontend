@@ -15,7 +15,7 @@
 - [x] [Object oriented JS](https://github.com/kottans/frontend/blob/master/tasks/js-oop.md) – practice<br>
 - [x] [OOP exercise](https://github.com/kottans/frontend/blob/master/tasks/js-post-oop.md) – practice<br>
 - [ ] [Offline Web Applications](https://github.com/kottans/frontend/blob/master/tasks/app-design-offline.md)<br>
-- [ ] [Memory pair game](https://github.com/kottans/frontend/blob/master/tasks/memory-pair-game.md) – real project!<br>
+- [x] [Memory pair game](https://github.com/kottans/frontend/blob/master/tasks/memory-pair-game.md) – real project!<br>
 - [ ] [Website Performance Optimization](https://github.com/kottans/frontend/blob/master/tasks/app-design-performance.md)<br>
 - [ ] [Friends App](https://github.com/kottans/frontend/blob/master/tasks/friends-app.md) – real project!<br>
 
